@@ -1,5 +1,5 @@
 {
-  "name": "bn.js",
+  "name": "bn-skt.js",
   "version": "5.1.3",
   "description": "Big number implementation in pure javascript",
   "keywords": [
@@ -9,13 +9,13 @@
     "Modulo",
     "Montgomery"
   ],
-  "homepage": "https://github.com/indutny/bn.js",
+  "homepage": "https://github.com/baoliang/bn.js",
   "bugs": {
-    "url": "https://github.com/indutny/bn.js/issues"
+    "url": "https://github.com/baoliang/bn.js/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:indutny/bn.js"
+    "url": "git@github.com:baoliang/bn.js"
   },
   "license": "MIT",
   "author": "Fedor Indutny <fedor@indutny.com>",
